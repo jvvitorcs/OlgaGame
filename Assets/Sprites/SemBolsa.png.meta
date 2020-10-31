@@ -1,0 +1,1195 @@
+fileFormatVersion: 2
+guid: 2f3ff53a8599174429f2a50e5b4489f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1342129644329585428
+    second: SemBolsa_0
+  - first:
+      213: 6890962278279802439
+    second: SemBolsa_1
+  - first:
+      213: -656467997271055621
+    second: SemBolsa_2
+  - first:
+      213: -4630193484985716145
+    second: SemBolsa_3
+  - first:
+      213: 2273411276072741135
+    second: SemBolsa_4
+  - first:
+      213: 5685309494479117649
+    second: SemBolsa_5
+  - first:
+      213: -8855022492077724989
+    second: SemBolsa_6
+  - first:
+      213: 5751012297748902434
+    second: SemBolsa_7
+  - first:
+      213: -327890683940396673
+    second: SemBolsa_8
+  - first:
+      213: 8203653374578987461
+    second: SemBolsa_9
+  - first:
+      213: 2818736608029128321
+    second: SemBolsa_10
+  - first:
+      213: 5901527206211096480
+    second: SemBolsa_11
+  - first:
+      213: -3264562106284659547
+    second: SemBolsa_12
+  - first:
+      213: -755800425995010147
+    second: SemBolsa_13
+  - first:
+      213: 6980240568722416413
+    second: SemBolsa_14
+  - first:
+      213: 3103752911597007094
+    second: SemBolsa_15
+  - first:
+      213: 3640142183415962141
+    second: SemBolsa_16
+  - first:
+      213: 2262261489507458151
+    second: SemBolsa_17
+  - first:
+      213: -1248723771537839381
+    second: SemBolsa_18
+  - first:
+      213: -1856984043288119610
+    second: SemBolsa_19
+  - first:
+      213: 8452567715739697854
+    second: SemBolsa_20
+  - first:
+      213: -8384219400150582124
+    second: SemBolsa_21
+  - first:
+      213: 6794711922894512804
+    second: SemBolsa_22
+  - first:
+      213: 1252307399613511936
+    second: SemBolsa_23
+  - first:
+      213: -8459422437251361124
+    second: SemBolsa_24
+  - first:
+      213: -59202170819474119
+    second: SemBolsa_25
+  - first:
+      213: 2671273595360609357
+    second: SemBolsa_26
+  - first:
+      213: -684496778531300273
+    second: SemBolsa_27
+  - first:
+      213: -9090008177901807340
+    second: SemBolsa_28
+  - first:
+      213: 4348262741300364344
+    second: SemBolsa_29
+  - first:
+      213: -2010182894735235536
+    second: SemBolsa_30
+  - first:
+      213: -1132874538039748189
+    second: SemBolsa_31
+  - first:
+      213: -3907150180433883859
+    second: SemBolsa_32
+  - first:
+      213: -7239129139206035093
+    second: SemBolsa_33
+  - first:
+      213: -1956756822068441563
+    second: SemBolsa_34
+  - first:
+      213: 5666757856986297093
+    second: SemBolsa_35
+  - first:
+      213: 6121514556214769448
+    second: SemBolsa_36
+  - first:
+      213: 7226011476391644918
+    second: SemBolsa_37
+  - first:
+      213: 7629465943131708731
+    second: SemBolsa_38
+  - first:
+      213: 5450442852631256803
+    second: SemBolsa_39
+  - first:
+      213: -7531505125515897325
+    second: SemBolsa_40
+  - first:
+      213: 5626151025509701245
+    second: SemBolsa_41
+  - first:
+      213: -3701235738940275188
+    second: SemBolsa_42
+  - first:
+      213: 6643860948539380501
+    second: SemBolsa_43
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SemBolsa_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1094
+        width: 329
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61402f245a2f61045b54325c6f4c4d25
+      internalID: -1342129644329585428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_1
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1094
+        width: 329
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907cb3c435b959843b3f8fb65450d3ac
+      internalID: 6890962278279802439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_2
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1094
+        width: 329
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14ab9e3556dedd4c8ff337b6e85099d
+      internalID: -656467997271055621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_3
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1094
+        width: 329
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8506380c85049fa4a91170c166685d3c
+      internalID: -4630193484985716145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_4
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1094
+        width: 329
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080bc0341ba6fb74a95d2a9e9860552a
+      internalID: 2273411276072741135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_5
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 1098
+        width: 329
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec64f040af423c4bbb1b76a9b35d35b
+      internalID: 5685309494479117649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_6
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 1098
+        width: 329
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e66f1d22934ce547a7baa838bc402d7
+      internalID: -8855022492077724989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_7
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 1098
+        width: 331
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8606158cdcf81b34db0a72e58cd72f82
+      internalID: 5751012297748902434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_8
+      rect:
+        serializedVersion: 2
+        x: 3275
+        y: 1098
+        width: 332
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03aa2585fda33da4b9788f9bf9a6d3c0
+      internalID: -327890683940396673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_9
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 1098
+        width: 332
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d786a82fecb264a8c9937e28fd6675
+      internalID: 8203653374578987461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_10
+      rect:
+        serializedVersion: 2
+        x: 4089
+        y: 1098
+        width: 332
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43904a9201f33094eba13ede82dc9ebb
+      internalID: 2818736608029128321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_11
+      rect:
+        serializedVersion: 2
+        x: 4495
+        y: 1098
+        width: 333
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0877f044f3e84684981f7e702c5f600c
+      internalID: 5901527206211096480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_12
+      rect:
+        serializedVersion: 2
+        x: 4902
+        y: 1098
+        width: 333
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e709efe6c6457fe4ca761177fcd24a55
+      internalID: -3264562106284659547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_13
+      rect:
+        serializedVersion: 2
+        x: 5309
+        y: 1099
+        width: 333
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf2f7694447ec34999e7fd2f37c5e32
+      internalID: -755800425995010147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_14
+      rect:
+        serializedVersion: 2
+        x: 5716
+        y: 1099
+        width: 333
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a717a68e95fa77c4f81c3525904ae0e9
+      internalID: 6980240568722416413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_15
+      rect:
+        serializedVersion: 2
+        x: 6123
+        y: 1100
+        width: 333
+        height: 971
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b948d3562bf94264999450d2a0e6bc46
+      internalID: 3103752911597007094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_16
+      rect:
+        serializedVersion: 2
+        x: 6530
+        y: 1101
+        width: 333
+        height: 970
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb91e8866c50fc6448954263259f096f
+      internalID: 3640142183415962141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_17
+      rect:
+        serializedVersion: 2
+        x: 6936
+        y: 1099
+        width: 343
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96f3d9a5476d70458edbf3595c38cbc
+      internalID: 2262261489507458151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_18
+      rect:
+        serializedVersion: 2
+        x: 7343
+        y: 1098
+        width: 343
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a93716c90e40eb43a88603fb020ca61
+      internalID: -1248723771537839381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_19
+      rect:
+        serializedVersion: 2
+        x: 7750
+        y: 1098
+        width: 337
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2f0a47f5858344abda9386b26dda82
+      internalID: -1856984043288119610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_20
+      rect:
+        serializedVersion: 2
+        x: 8157
+        y: 1094
+        width: 329
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b1660953721654b95afb95fb229005
+      internalID: 8452567715739697854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_21
+      rect:
+        serializedVersion: 2
+        x: 8565
+        y: 1094
+        width: 323
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c183fc0d513487644a9bbc1ab0d0b4d2
+      internalID: -8384219400150582124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_22
+      rect:
+        serializedVersion: 2
+        x: 8975
+        y: 1094
+        width: 315
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3428d8a98ab60d4f81b73a5f850d7f6
+      internalID: 6794711922894512804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_23
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 30
+        width: 314
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3db2d3e75d20c541b858e810608db8b
+      internalID: 1252307399613511936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_24
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 30
+        width: 311
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822dfe1dd4d69bd41ab1bab397ff08ca
+      internalID: -8459422437251361124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_25
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 25
+        width: 311
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe1bca4ef4bd4247b19a38553d5a047
+      internalID: -59202170819474119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_26
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 25
+        width: 311
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c47fe005421f844bb20b9c9ac14d17
+      internalID: 2671273595360609357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_27
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 25
+        width: 311
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e7add8e57c19541bebfc3aafab7398
+      internalID: -684496778531300273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_28
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 25
+        width: 320
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10649bd4f8e38643b8d1b1ca7377219
+      internalID: -9090008177901807340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_29
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 25
+        width: 329
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1131a6c6d3681e84d9753bdece75c662
+      internalID: 4348262741300364344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_30
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 25
+        width: 340
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65626d03221311b4d9fdd9fec098bbee
+      internalID: -2010182894735235536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_31
+      rect:
+        serializedVersion: 2
+        x: 3275
+        y: 25
+        width: 351
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed7e31074698da4780b8d78587a5ea5
+      internalID: -1132874538039748189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_32
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 25
+        width: 360
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000c2d090b09f7b4385ca99a2d822009
+      internalID: -3907150180433883859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_33
+      rect:
+        serializedVersion: 2
+        x: 4089
+        y: 25
+        width: 369
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c520ac56407434ab8d0b6a1e75587b
+      internalID: -7239129139206035093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_34
+      rect:
+        serializedVersion: 2
+        x: 4495
+        y: 25
+        width: 380
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501ed64613b91d94d82f4363b0bf4ffa
+      internalID: -1956756822068441563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_35
+      rect:
+        serializedVersion: 2
+        x: 4902
+        y: 26
+        width: 388
+        height: 981
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df3c451fd1ecc7479c402878bdf933c
+      internalID: 5666757856986297093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_36
+      rect:
+        serializedVersion: 2
+        x: 5309
+        y: 30
+        width: 379
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92668f516a8ba594c9150582577c44f8
+      internalID: 6121514556214769448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_37
+      rect:
+        serializedVersion: 2
+        x: 5716
+        y: 30
+        width: 365
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be29276047c48845aecb9f86f9d603a
+      internalID: 7226011476391644918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_38
+      rect:
+        serializedVersion: 2
+        x: 6123
+        y: 30
+        width: 349
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a402cf744b55f9f428e951d598cf6fcf
+      internalID: 7629465943131708731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_39
+      rect:
+        serializedVersion: 2
+        x: 6530
+        y: 30
+        width: 333
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d881e95c6e7620c41aae4c5ae348e0c3
+      internalID: 5450442852631256803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_40
+      rect:
+        serializedVersion: 2
+        x: 6936
+        y: 30
+        width: 329
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6235fa2126a14024b85e5cc97434c493
+      internalID: -7531505125515897325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_41
+      rect:
+        serializedVersion: 2
+        x: 7343
+        y: 30
+        width: 329
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795b4e3c15c955948af55787efde42df
+      internalID: 5626151025509701245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_42
+      rect:
+        serializedVersion: 2
+        x: 7750
+        y: 30
+        width: 333
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d04a89c1aa0f248baef75fd97d9968
+      internalID: -3701235738940275188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemBolsa_43
+      rect:
+        serializedVersion: 2
+        x: 8157
+        y: 30
+        width: 333
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba078dbca24a6f24dacdc66d2d74f32d
+      internalID: 6643860948539380501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

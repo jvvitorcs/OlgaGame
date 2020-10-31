@@ -1,0 +1,1195 @@
+fileFormatVersion: 2
+guid: 5996c15546968654a95347dc9f282f06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2616656876609788978
+    second: ComBolsa_0
+  - first:
+      213: 65055779962615405
+    second: ComBolsa_1
+  - first:
+      213: -5241435124521708510
+    second: ComBolsa_2
+  - first:
+      213: 2755900472896532517
+    second: ComBolsa_3
+  - first:
+      213: -6695664438099178718
+    second: ComBolsa_4
+  - first:
+      213: -4192653477950478217
+    second: ComBolsa_5
+  - first:
+      213: 4535890111670147469
+    second: ComBolsa_6
+  - first:
+      213: 1734277111002132340
+    second: ComBolsa_7
+  - first:
+      213: -1797764352701837109
+    second: ComBolsa_8
+  - first:
+      213: -744433353696731824
+    second: ComBolsa_9
+  - first:
+      213: 2244500391649433638
+    second: ComBolsa_10
+  - first:
+      213: -344563093655303340
+    second: ComBolsa_11
+  - first:
+      213: -1025949113423905086
+    second: ComBolsa_12
+  - first:
+      213: -1793826074349691769
+    second: ComBolsa_13
+  - first:
+      213: -4743908457779795907
+    second: ComBolsa_14
+  - first:
+      213: -2287294643072070351
+    second: ComBolsa_15
+  - first:
+      213: 9114720250088951245
+    second: ComBolsa_16
+  - first:
+      213: -784830441902017899
+    second: ComBolsa_17
+  - first:
+      213: -5324041636788163615
+    second: ComBolsa_18
+  - first:
+      213: -5921742586363173824
+    second: ComBolsa_19
+  - first:
+      213: 2038618497212742528
+    second: ComBolsa_20
+  - first:
+      213: 1050394635683194057
+    second: ComBolsa_21
+  - first:
+      213: 5049902842743591577
+    second: ComBolsa_22
+  - first:
+      213: -1103088747199525826
+    second: ComBolsa_23
+  - first:
+      213: -7322972016367676618
+    second: ComBolsa_24
+  - first:
+      213: 1916779337611020043
+    second: ComBolsa_25
+  - first:
+      213: -4980363908039773772
+    second: ComBolsa_26
+  - first:
+      213: 2818564537533586994
+    second: ComBolsa_27
+  - first:
+      213: 3627153680266218702
+    second: ComBolsa_28
+  - first:
+      213: -670439326498509380
+    second: ComBolsa_29
+  - first:
+      213: 1506241996018386927
+    second: ComBolsa_30
+  - first:
+      213: 8400205563429849271
+    second: ComBolsa_31
+  - first:
+      213: 2354313377932582458
+    second: ComBolsa_32
+  - first:
+      213: 3748949848791159517
+    second: ComBolsa_33
+  - first:
+      213: 1235671914426805826
+    second: ComBolsa_34
+  - first:
+      213: -169160769971414503
+    second: ComBolsa_35
+  - first:
+      213: -6170984702417048044
+    second: ComBolsa_36
+  - first:
+      213: 6148397758485618865
+    second: ComBolsa_37
+  - first:
+      213: 807934978122073240
+    second: ComBolsa_38
+  - first:
+      213: -45271397164837252
+    second: ComBolsa_39
+  - first:
+      213: 4890266071441454684
+    second: ComBolsa_40
+  - first:
+      213: -3280092175853900748
+    second: ComBolsa_41
+  - first:
+      213: -7437724278668308217
+    second: ComBolsa_42
+  - first:
+      213: -2555737762226650479
+    second: ComBolsa_43
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ComBolsa_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1094
+        width: 329
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0295876e1a4b96d4cb57110bef5e02d7
+      internalID: 2616656876609788978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_1
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1094
+        width: 329
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c08c6d28c6374243b36ae70afb28768
+      internalID: 65055779962615405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_2
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1094
+        width: 329
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085702ed3479284438f45889caaf4100
+      internalID: -5241435124521708510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_3
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1094
+        width: 329
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e83675fe7ae534e98471f6083fd6af
+      internalID: 2755900472896532517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_4
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1094
+        width: 329
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52e3bd4f8571ab43919fc9b4c6de28d
+      internalID: -6695664438099178718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_5
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 1098
+        width: 329
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2e4135ee07542468865b5fd9bd565d
+      internalID: -4192653477950478217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_6
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 1098
+        width: 329
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1432102875958914abae49611ace74da
+      internalID: 4535890111670147469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_7
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 1098
+        width: 331
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c80aeacf04f97478680a652356d49c
+      internalID: 1734277111002132340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_8
+      rect:
+        serializedVersion: 2
+        x: 3275
+        y: 1098
+        width: 332
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f594d1ac7d0c51489c40c468a567c45
+      internalID: -1797764352701837109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_9
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 1098
+        width: 332
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480d02e6057945b4cbc141aaf16af113
+      internalID: -744433353696731824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_10
+      rect:
+        serializedVersion: 2
+        x: 4089
+        y: 1098
+        width: 332
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb065a18ff20cf14f88149ab9e61f14a
+      internalID: 2244500391649433638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_11
+      rect:
+        serializedVersion: 2
+        x: 4495
+        y: 1098
+        width: 333
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fcbf1a1058d2d4b9d9666f538c9e89
+      internalID: -344563093655303340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_12
+      rect:
+        serializedVersion: 2
+        x: 4902
+        y: 1098
+        width: 333
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca9edab8450f8449b31a20472733298
+      internalID: -1025949113423905086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_13
+      rect:
+        serializedVersion: 2
+        x: 5309
+        y: 1099
+        width: 333
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743dbcd1ca76c0f4bb48f5a27d85ee19
+      internalID: -1793826074349691769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_14
+      rect:
+        serializedVersion: 2
+        x: 5716
+        y: 1099
+        width: 333
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c6361abe2d59841b4d0524d83e3128
+      internalID: -4743908457779795907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_15
+      rect:
+        serializedVersion: 2
+        x: 6123
+        y: 1100
+        width: 333
+        height: 971
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2aa20e38e532e4aa3ad6dc11c52133
+      internalID: -2287294643072070351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_16
+      rect:
+        serializedVersion: 2
+        x: 6530
+        y: 1101
+        width: 333
+        height: 970
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f01bd91d307fd7499157b3f5e355c0a
+      internalID: 9114720250088951245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_17
+      rect:
+        serializedVersion: 2
+        x: 6936
+        y: 1099
+        width: 343
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f722e84cd4645dd4284b317ee50ab64d
+      internalID: -784830441902017899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_18
+      rect:
+        serializedVersion: 2
+        x: 7343
+        y: 1098
+        width: 343
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab2c5bf3e506fc4da11b6bcf2d5b71a
+      internalID: -5324041636788163615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_19
+      rect:
+        serializedVersion: 2
+        x: 7750
+        y: 1098
+        width: 337
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a320bab46716cd545b2afd9ed3f2af4c
+      internalID: -5921742586363173824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_20
+      rect:
+        serializedVersion: 2
+        x: 8157
+        y: 1094
+        width: 329
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cce3fb3e1aadb5418d867108a38a16a
+      internalID: 2038618497212742528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_21
+      rect:
+        serializedVersion: 2
+        x: 8565
+        y: 1094
+        width: 323
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928d22270554a7c4397abe2809dab248
+      internalID: 1050394635683194057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_22
+      rect:
+        serializedVersion: 2
+        x: 8975
+        y: 1094
+        width: 315
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f740a89df6a1ddd49874ba17008d9ca7
+      internalID: 5049902842743591577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_23
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 30
+        width: 315
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706837f8af5acf14dbcc6c88cc3aa8a9
+      internalID: -1103088747199525826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_24
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 30
+        width: 316
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a1065371dca7d4d80f39e249445a84
+      internalID: -7322972016367676618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_25
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 25
+        width: 315
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79b6b062b438b8499e7285f84c2a8f6
+      internalID: 1916779337611020043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_26
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 25
+        width: 315
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de44a19a903d2b743a66eff7f3de2f0f
+      internalID: -4980363908039773772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_27
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 25
+        width: 315
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdb1dc4cf422c04fa50d18a73a6f510
+      internalID: 2818564537533586994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_28
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 25
+        width: 320
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b7df99e6cc49c4d83c6045b7827427
+      internalID: 3627153680266218702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_29
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 25
+        width: 329
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd889091f8aacc4fbbcfd3b083dfe0c
+      internalID: -670439326498509380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_30
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 25
+        width: 340
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7633f2e27cbfde4585fe2e1a1285899
+      internalID: 1506241996018386927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_31
+      rect:
+        serializedVersion: 2
+        x: 3275
+        y: 25
+        width: 351
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe43098ae56dad44bae1df7d0ea57dc
+      internalID: 8400205563429849271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_32
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 25
+        width: 360
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b041b1c412ff75c4aba1fe0435b8bace
+      internalID: 2354313377932582458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_33
+      rect:
+        serializedVersion: 2
+        x: 4089
+        y: 25
+        width: 369
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72db1037de35e394d9d8717c86b6866c
+      internalID: 3748949848791159517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_34
+      rect:
+        serializedVersion: 2
+        x: 4495
+        y: 25
+        width: 380
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bed497a1b0d1894c872925af9b4e857
+      internalID: 1235671914426805826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_35
+      rect:
+        serializedVersion: 2
+        x: 4902
+        y: 26
+        width: 388
+        height: 981
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83af7cdbfb476da40ad2f636af83428e
+      internalID: -169160769971414503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_36
+      rect:
+        serializedVersion: 2
+        x: 5309
+        y: 30
+        width: 379
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb438f3454d6fb64baee3e9acfb11788
+      internalID: -6170984702417048044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_37
+      rect:
+        serializedVersion: 2
+        x: 5716
+        y: 30
+        width: 365
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096bc4443a8c1334cacdd007dbd3ac85
+      internalID: 6148397758485618865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_38
+      rect:
+        serializedVersion: 2
+        x: 6123
+        y: 30
+        width: 349
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4aa4ab21d26084e9b91d8fdd25017b
+      internalID: 807934978122073240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_39
+      rect:
+        serializedVersion: 2
+        x: 6530
+        y: 30
+        width: 333
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9dedadd8611024685c77b121797a7b
+      internalID: -45271397164837252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_40
+      rect:
+        serializedVersion: 2
+        x: 6936
+        y: 30
+        width: 329
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0583d8c596272964eba5bc47b018ac7c
+      internalID: 4890266071441454684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_41
+      rect:
+        serializedVersion: 2
+        x: 7343
+        y: 30
+        width: 329
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51981daabd34104984530643a7084e3
+      internalID: -3280092175853900748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_42
+      rect:
+        serializedVersion: 2
+        x: 7750
+        y: 30
+        width: 333
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af4cefec338d7441b8e8b81218714af
+      internalID: -7437724278668308217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ComBolsa_43
+      rect:
+        serializedVersion: 2
+        x: 8157
+        y: 30
+        width: 333
+        height: 977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3ab347f4f76ed4994877a4f2d8b81f
+      internalID: -2555737762226650479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
