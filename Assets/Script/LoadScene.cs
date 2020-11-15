@@ -7,8 +7,7 @@ using UnityEngine.UI;
 
 public class LoadScene : MonoBehaviour
 {
-    public VideoPlayer _VideoPlayer;
-    public string _SceneName;
+    public VideoPlayer _VideoPlayer;    
     public GameObject _Button;
 
     void Start()
@@ -28,7 +27,7 @@ public class LoadScene : MonoBehaviour
 
     }
 
-    public void LoadGame()
+    public void LoadGame(string _SceneName)
     {
         SceneManager.LoadScene(_SceneName);
     }

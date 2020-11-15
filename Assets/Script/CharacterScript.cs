@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class CharacterScript : MonoBehaviour
 {
@@ -9,17 +10,30 @@ public class CharacterScript : MonoBehaviour
     Rigidbody2D _rb;
     Animator _anim;
     CanvasScript _canvasScript;
+    PopUpList PopUpListScript;
     public bool _bagBool;
+    Scene ActualScene;
+    int SceneIndex;
 
     void Start()
     {
+        DontDestroyOnLoad(gameObject);
+        PopUpListScript = FindObjectOfType<PopUpList>();
         _rb = GetComponent<Rigidbody2D>();
         _anim = GetComponent<Animator>();
         _canvasScript = FindObjectOfType<CanvasScript>();
+        
+           
     }
 
     void Update()
     {
+        ActualScene = SceneManager.GetActiveScene();
+        SceneIndex = ActualScene.buildIndex;
+        if (SceneIndex == 5)
+        {
+            Destroy(this.gameObject);
+        }
         Move();
         FlipSprite();
 
@@ -32,8 +46,9 @@ public class CharacterScript : MonoBehaviour
     void Move()
     {
 
-        if (!_canvasScript.instrunctions && _canvasScript._TutorialDone == true)
+        if (!_canvasScript.instrunctions && _canvasScript._TutorialDone == true && !PopUpListScript._PopUpActive)
         {
+            
             float x = Input.GetAxisRaw("Horizontal");
             float moveBy = x * _speed;
             _rb.velocity = new Vector2(moveBy, _rb.velocity.y);

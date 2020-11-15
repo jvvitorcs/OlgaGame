@@ -6,14 +6,21 @@ using UnityEngine.UI;
 public class PopUpList : MonoBehaviour
 {
     public Sprite[] _Images;
-    public Image _ActualImage, _BackGround, _TextPanel;
-    public GameObject _setaPopup;
+    public Image _ActualImage, _BackugroundImage, _TextPanelImage;
+    public GameObject _setaPopupObject;
     public Text _textPopUp;
-    public bool _PopUpActive;
+    public bool _PopUpActive, _SpecificScene;
+    public CanvasScript _CanvasScript;
+    
 
-    public void Start()
-    {        
+    public void Awake()
+    {
         CloseImage();
+    }
+
+    private void Start()
+    {
+        _CanvasScript = FindObjectOfType<CanvasScript>();
     }
 
     public void UpdateImages(int ArrayValue, string Text)
@@ -21,9 +28,9 @@ public class PopUpList : MonoBehaviour
         _textPopUp.text = "''" + Text + "''";
         _ActualImage.sprite = _Images[ArrayValue];
         _ActualImage.enabled = true;
-        _BackGround.enabled = true;
-        _TextPanel.enabled = true;
-        _setaPopup.SetActive(true);
+        _BackugroundImage.enabled = true;
+        _TextPanelImage.enabled = true;
+        _setaPopupObject.SetActive(true);
         _textPopUp.enabled = true;
         _PopUpActive = true;
     }
@@ -31,10 +38,25 @@ public class PopUpList : MonoBehaviour
     public void CloseImage()
     {
         _ActualImage.enabled = false;
-        _BackGround.enabled = false;
-        _TextPanel.enabled = false;
-        _setaPopup.SetActive(false);
-        _textPopUp.enabled = false;
+        _BackugroundImage.enabled = false;
+        if (!_SpecificScene)
+        {
+            _TextPanelImage.enabled = false;
+            _setaPopupObject.SetActive(false);
+            _textPopUp.enabled = false;
+        }
         _PopUpActive = false;
+        _CanvasScript.ActiveButtonsUI();
+    }
+
+    public void Dialogue()
+    {
+        Debug.Log("Dialogue");
+        _TextPanelImage.enabled = true;
+        _setaPopupObject.SetActive(true);
+        _textPopUp.enabled = true;
+        _SpecificScene = false;
+        _PopUpActive = true;
+
     }
 }
