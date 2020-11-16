@@ -9,6 +9,7 @@ public class LoadScene : MonoBehaviour
 {
     public VideoPlayer _VideoPlayer;    
     public GameObject _Button;
+    public double TimeVideo;
 
     void Start()
     {
@@ -19,7 +20,7 @@ public class LoadScene : MonoBehaviour
 
     void Update()
     {
-        if (_VideoPlayer.time == 31)
+        if (_VideoPlayer.time >= TimeVideo)
         {
             _VideoPlayer.Pause();
             _Button.SetActive(true);

@@ -122,7 +122,7 @@ public class CanvasScript : MonoBehaviour
             {
                 yield return new WaitForSeconds(2f);
                 imageArrow.SetActive(true);
-                imageArrow.transform.position = new Vector2(buttonInstruction.transform.position.x + 0.4f, buttonInstruction.transform.position.y - 0.8f);
+                imageArrow.transform.position = new Vector2(buttonInstruction.transform.position.x + 0.3f, buttonInstruction.transform.position.y - 0.5f);
                 buttonInstruction.enabled = true;
             }
             else
