@@ -11,7 +11,7 @@ public class PopUpList : MonoBehaviour
     public Text _textPopUp;
     public bool _PopUpActive, _SpecificScene;
     public CanvasScript _CanvasScript;
-    
+
 
     public void Awake()
     {
@@ -39,11 +39,13 @@ public class PopUpList : MonoBehaviour
     {
         _ActualImage.enabled = false;
         _BackugroundImage.enabled = false;
-        if (!_SpecificScene)
+
+        _TextPanelImage.enabled = false;
+        _setaPopupObject.SetActive(false);
+        _textPopUp.enabled = false;
+        if (_SpecificScene)
         {
-            _TextPanelImage.enabled = false;
-            _setaPopupObject.SetActive(false);
-            _textPopUp.enabled = false;
+            _CanvasScript.buttonNextScene.enabled = true;
         }
         _PopUpActive = false;
         _CanvasScript.ActiveButtonsUI();
@@ -55,7 +57,7 @@ public class PopUpList : MonoBehaviour
         _TextPanelImage.enabled = true;
         _setaPopupObject.SetActive(true);
         _textPopUp.enabled = true;
-        _SpecificScene = false;
+        _SpecificScene = true;
         _PopUpActive = true;
 
     }

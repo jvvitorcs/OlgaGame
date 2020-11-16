@@ -26,6 +26,7 @@ public class CanvasScript : MonoBehaviour
     public Button buttonInstruction;
     public Button buttonMissions;
     public Button buttonBag;
+    public Button buttonNextScene;
 
 
     private PopUpList PopUpListScript;
@@ -104,6 +105,7 @@ public class CanvasScript : MonoBehaviour
     {
         buttonInstruction.enabled = false;
         buttonMissions.enabled = false;
+        buttonNextScene.enabled = false;
         buttonBag.enabled = false;
         buttonDialogues.SetActive(false);
         buttonChoices.SetActive(false);
@@ -198,7 +200,7 @@ public class CanvasScript : MonoBehaviour
     {
         _Dialogues.text = "*Crack*";
         PopUpListScript.Dialogue();
-        PopUpListScript._SpecificScene = false;
+        //PopUpListScript._SpecificScene = false;
         //PlayerScript._bagBool = true;
     }
 

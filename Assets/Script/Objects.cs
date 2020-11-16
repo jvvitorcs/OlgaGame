@@ -29,7 +29,8 @@ public class Objects : MonoBehaviour
             _character._bagBool = true;
             CScript.MissionCheck(0);            
             _objects[0].SetActive(false);
-            CScript.imageBag.SetActive(true);            
+            CScript.imageBag.SetActive(true);
+            CScript.buttonNextScene.enabled = true;
         }
 
         if (photo)
@@ -51,7 +52,7 @@ public class Objects : MonoBehaviour
     {
         if (photo)
         {
-            PopUpScript.UpdateImages(0, "Eu e ele");
+            PopUpScript.UpdateImages(0, "Eu e Danica");
         }
 
         if (draw)
